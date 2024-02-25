@@ -1,9 +1,18 @@
-I meditate a lot. Like a lot. For me, the value of sitting in your own mind, getting comfortable observing the thoughts flying around, is one of the most valuable things a person can do to identify their [[fundamental assumptions about the world]] and the way it works.
-## Putting nets over things
-If you try to grab onto a fish that is flopping around, you won't be very successful unless you try to get a net over it. Because we have limited sensory ability, we have no choice but to create abstractions over the top of reality to try and make sense of it. These provide a useful framework to simplify processing -- if this, then that. And it's all automatic. 
+Transition is hard. I began medical transition 14 months ago, and each day brings new challenges. Very often, a problem that arises ends up being the hardest thing I've ever had to navigate up until that point. This feels more and more true as my transition progresses.
 
-The nature of cutting corners is that it can result in undesirable outcomes. In a physical system, for a given failure you'd take a look at the decision points along the road that led to the failure. 
+When you're changing yourself from the inside out, you have to develop a way of coping with the shock of having to relearn everything in your life. 
 
-For cognitive shortcuts, though, the sequence of choices is often subconscious --a "black box" handling what inputs should result in what outputs-- making it harder to understand the problem.
+I'm cultivating this digital garden so that I can continually revisit my strategies for coping with the demands of transition.
 
-If you have a sense for what shortcuts your brain habitually takes, you can begin to pick apart why you feel a certain way.
+## [[Finding Community]]
+This was the single most important factor in the improvement of my mental health. As I began transition, I found that difficult paths are best walked together.
+
+## [[Courage]] in the Face of Difficulty
+You don't need to look far to find examples of the difficulty of living while trans. It's important to have a strong foundation to retreat to when they arise.
+
+## [[Meditation]] to Reflect on Progress
+I meditate a lot. Like a lot. For me, the value of sitting in your own mind, getting comfortable [[observing the thoughts]] flying around, is one of the most valuable things a person can do to identify their [[fundamental assumptions about the world]] and the way it works.
+
+## [[Maintaining Consistency]] in Transition
+The estrogen doesn't work unless you take it. You also need to make sure your body's needs are met!
+

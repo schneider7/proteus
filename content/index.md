@@ -4,6 +4,6 @@ author: Mina
 ---
 This is a repository of information about navigating the difficulties of [[transforming your life]]. 
 
-The process is daunting, and you deserve to [[do it in good company]].
+The process is daunting, and I think it's best if we [[do it in good company]].
 
-Mina
+-Mina ♥
