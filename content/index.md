@@ -1,8 +1,8 @@
 ---
-title: Welcome to Proteus
+title: What this is
 ---
-A repository of information about [[transforming your being]]. 
+This is a repository of information about navigating the difficulties of [[transforming your life]]. 
 
-Navigating tumultuous change is best done with guidance.
+The process is daunting, and you deserve to do it in good company.
 
-To start, check out the [[Introduction]].
+Check out the [[Introduction]].

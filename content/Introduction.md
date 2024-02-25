@@ -1,4 +1,4 @@
-There will be several chapters in this series, each about a different aspect of the experience of [[transforming your being]], one of the most difficult and rewarding things you can ever do.
+There will be several chapters in this series, each about a different aspect of the experience of [[transforming your life]], one of the most difficult and rewarding things you can ever do.
 
 My primary motivation in writing this is to keep track of my own thoughts on the process.
 
