@@ -1,7 +1,9 @@
 ---
 title: Welcome to Proteus.
 ---
-A repository of information about transformation.
+A repository of information about [[transforming your being]]. 
+This project was created to be a collaborative effort among trans people, because navigating tumultuous change is what we do best.
 
-This block is to make sure there's a link to the [[Introduction]].
+# [[Preconditions for Change]]
+Who are you? Why do you want to change?
 
