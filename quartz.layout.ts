@@ -1,3 +1,4 @@
+import { compileFunction } from "node:vm"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -25,13 +26,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Graph()),
     Component.Search(),
-    
-    Component.DesktopOnly(Component.Explorer()),
   ],
 
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
+    Component.MobileOnly(Component.Graph()),
+    Component.Explorer(),
   ],
 }
 
