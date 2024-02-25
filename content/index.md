@@ -1,5 +1,6 @@
 ---
 title: What this is
+author: Mina
 ---
 This is a repository of information about navigating the difficulties of [[transforming your life]]. 
 

@@ -1,1 +1,1 @@
-I understood that the notion of fixed gender had been infused into every aspect of my life. I knew that I was going to have to do some serious reflection on my fundamental assumptions about the world.
+I understood that the notion of fixed gender had been infused into every aspect of my life. I knew that I was going to have to do some serious reflection on my [[fundamental assumptions about the world]].
