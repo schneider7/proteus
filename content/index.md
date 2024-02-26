@@ -2,9 +2,8 @@
 title: The Digital Garden
 author: Mina
 ---
-This is a repository of information about navigating the difficulties of [[transforming your life]]. 
+Completely [[transforming your life]] is a daunting task.
 
-The process is daunting, and I think it's best if we [[try to go together]].
-
+I think it's best if we [[try to go together]].
 
 -Mina ♥
