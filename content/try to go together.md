@@ -1,8 +1,8 @@
-Transition is incredibly difficult. The process of [[transforming your life]] from the inside out is one of the most difficult and rewarding things a person can do.
+> If you want to go fast, go alone. If you want to go far, go together.
 
-I will never forget how alone I felt during those early years. It didn’t start to get better until I stumbled across the first glimpse of a shared world. [[Finding Community]] is an important early step in anyone's gender transition.
+It is important to walk together with others in the process of [[transforming your life]] from the inside out. I will never forget how alone I felt during those early years. It didn’t start to get better until I stumbled across the first glimpse of a shared world. [[Finding Community]] is an important early step in anyone's gender transition.
 
-For me, it began with the article [That’s gender dysphoria, FYI](https://genderdysphoria.fyi/) — a collaborative piece about what exactly gender dysphoria is, and what it means.
+For me, my journey began with the article [That’s gender dysphoria, FYI](https://genderdysphoria.fyi/) — a collaborative piece about what exactly gender dysphoria is, and what it means.
 
 I spent a very long time wrestling with this realization. It had serious and deep implications. If I wanted to transition, it would require giving up nearly everything I had worked for. [[Courage]] didn't even seem to begin to cover it. My mind wanted to probe every aspect of what undertaking such a transformation would require, because the fear was all-consuming.
 
