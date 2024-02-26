@@ -1,1 +1,1 @@
---
+Developing a consistent practice of meditating is one of the most valuable things a person can do to identify their [[fundamental assumptions about the world]] and the way it works. You'd be surprised how far it can get you in transition.
