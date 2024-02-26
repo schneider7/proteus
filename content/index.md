@@ -1,5 +1,5 @@
 ---
-title: What this is
+title: Nurturing a Digital Garden
 author: Mina
 ---
 This is a repository of information about navigating the difficulties of [[transforming your life]]. 
